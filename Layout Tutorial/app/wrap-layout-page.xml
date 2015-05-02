@@ -1,0 +1,20 @@
+<Page xmlns="http://www.nativescript.org/tns.xsd">
+  <WrapLayout orientation="horizontal" itemWidth="100" itemHeight="100">
+    <Button text="Button 1" />
+    <Button text="A" />
+    <Button text="Cat" />
+    <Button text="Much Too Long To Fit In A Button" />
+    <Button text="Button 5" />
+    <Button text="Button 6" />
+    <Button text="Button 7" />
+    <Button text="Button 8" />
+    <Button text="Button 9" />
+    <Button text="Button 10" />
+    <Button text="Button 11" />
+    <Button text="Button 12" />
+    <Button text="Button 13" />
+    <Button text="Button 14" />
+    <Button text="Button 15" />
+    <Button text="Button 16" />
+  </WrapLayout>
+</Page>

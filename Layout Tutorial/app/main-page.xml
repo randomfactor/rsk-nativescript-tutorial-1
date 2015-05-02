@@ -1,5 +1,5 @@
 <Page xmlns="http://www.nativescript.org/tns.xsd" loaded="pageLoaded">
-  <StackLayout>
+  <StackLayout itemHeight="260">
     <Label text="Tap the button" cssClass="title"/>
     <Button text="TAP" tap="{{ tapAction }}" />
     <Label text="{{ message }}" cssClass="message" textWrap="true"/>

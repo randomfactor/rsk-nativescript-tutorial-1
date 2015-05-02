@@ -1,0 +1,9 @@
+<Page xmlns="http://www.nativescript.org/tns.xsd">
+  <DockLayout stretchLastChild="true">
+    <Button text="Top!" dock="top"/>
+    <Button text="Left!" dock="left"/>
+    <Button text="Right!" dock="right"/>
+    <Button text="Bottom!" dock="bottom"/>
+    <Button text="Center!" />
+  </DockLayout>
+</Page>
